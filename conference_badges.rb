@@ -20,6 +20,6 @@ def assign_rooms(arr)
   return assigned_rooms
 end
 
-def printer
+def printer(attendees)
 
 end
