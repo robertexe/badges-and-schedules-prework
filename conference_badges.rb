@@ -10,7 +10,7 @@ def batch_badge_creator(arr)
   return arr_messages
 end
 
-def room_assignments(arr)
+def assign_rooms(arr)
   assigned_rooms = [];
   i = 0;
   arr.each do | name |
